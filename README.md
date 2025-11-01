@@ -112,22 +112,19 @@ Meshes exported as `.ply` files and visualized using:
 | ------------------ | ------ | --------- | ----- | -------------------------- |
 | Bowl               | 27     | Sony a7IV | 1     | Single small object        |
 | Ganesh             | 36     | iPhone 12 | 1     | Statue reconstruction      |
-| Banglamukhi Temple | 307    | iPhone 12 | 4     | Heritage site              |
+| Banglamukhi Temple | 55    | iPhone 12 | 4     | Heritage site              |
 | Statue             | 88     | iPhone 12 | 2     | Human-sized sculpture      |
-| Stone Artifact     | 107    | iPhone 12 | 3     | Museum artifact            |
-| Stupa_01           | 193    | iPhone 12 | 6     | Outdoor cultural structure |
+| Stone Artifact     | 13    | iPhone 12 | 3     | Museum artifact            |
+
 
 ---
+<img width="1135" height="433" alt="image" src="https://github.com/user-attachments/assets/829f9383-9d74-46e7-8db9-3069ac6e5f8b" />
 
-## 📊 Results & Evaluation
+<img width="556" height="741" alt="image" src="https://github.com/user-attachments/assets/0928f82d-3393-4265-a75a-f1b1587b8368" />
 
-| Dataset  | MSE ↓   | PSNR ↑ | SSIM ↑ | Processing Time |
-| -------- | ------- | ------ | ------ | --------------- |
-| Truck    | 2891.50 | 13.52  | 0.84   | 98m             |
-| Bowl     | 5868.88 | 10.44  | 0.68   | 8m              |
-| Ganesh   | 3127.58 | 13.17  | 0.63   | 28m             |
-| Statue   | 5854.91 | 10.45  | 0.70   | 28m             |
-| Stupa_01 | 3144.48 | 13.15  | 0.75   | 98m             |
+![signal-2025-11-01-222741_007](https://github.com/user-attachments/assets/225fc8d6-89ae-4155-a09d-62a91d3d75ac)
+
+
 
 **Key Observations:**
 
